@@ -11,7 +11,7 @@
 
  💬 Ask me about **Node.js, SQL, React... or anything [here](https://github.com/llucaasbarros/llucaasbarros/issues)**
 
- ⚡ Fun fact **Star Wars lightsaber sound: Film projector hum + idling TV buzz + broken mic feedback = iconic swoosh!**
+ ⚡ Fun fact : **Star Wars lightsaber sound: Film projector hum + idling TV buzz + broken mic feedback = iconic swoosh!**
 
  </div>
 

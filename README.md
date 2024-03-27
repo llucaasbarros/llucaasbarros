@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas 👋
 
-<h3 align="center"> My Developer Code Adventure 🇧🇷 </h3>
+<h3 align="center"> My Developer Code Adventure </h3>
 <br/>
 
 <div align="center">

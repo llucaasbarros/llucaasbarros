@@ -7,7 +7,7 @@
  
  🔭 I’m currently **searching for a job**
  
- 🌱 I’m currently learning **Machine Learning using python, AWS, MongoDB**
+ 🌱 I’m currently learning **Machine Learning, Deep Learning & Data Analysis**
 
  💬 Ask me about **Node.js, SQL, React... or anything [here](https://github.com/llucaasbarros/llucaasbarros/issues)**
 

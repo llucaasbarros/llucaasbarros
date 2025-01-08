@@ -5,13 +5,13 @@
 
 <div align="center">
  
- 🔭 I’m currently **searching for a job**
+ 🔭 I’m currently **working as a software developer @AdviceHealth**
  
  🌱 I’m currently learning **Machine Learning, Deep Learning & Data Analysis**
 
  💬 Ask me about **Node.js, SQL, React... or anything [here](https://github.com/llucaasbarros/llucaasbarros/issues)**
 
- ⚡ Fun fact **Star Wars lightsaber sound: Film projector hum + idling TV buzz + broken mic feedback = iconic swoosh!**
+ 
 
  </div>
 
